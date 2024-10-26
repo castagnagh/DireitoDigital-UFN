@@ -14,3 +14,15 @@ _Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos m
 Um ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
 - ### Regulamento
 Regulamentos são normas ou regras de caráter jurídico que têm a finalidade de detalhar e complementar a aplicação de leis, eles são emitidos por órgãos do poder executivo, como ministérios, agências reguladoras e secretarias, e possuem força normativa para orientar a aplicação prática das leis.
+- ### Direito do Consumidor frente ao E-Commerce
+__Direito à Informação:__ Os consumidores têm o direito de receber informações claras e precisas sobre os produtos e serviços oferecidos, incluindo características, preço e condições de pagamento.
+
+__Prazo de Arrependimento:__ De acordo com o Código de Defesa do Consumidor (CDC) brasileiro, o consumidor pode desistir da compra em até 7 dias após o recebimento do produto, sem necessidade de justificar a decisão.
+
+__Segurança nas Transações:__ Os sites de e-commerce devem garantir a segurança das informações pessoais e financeiras dos consumidores, utilizando tecnologias como SSL (Secure Sockets Layer) para criptografar dados.
+
+__Responsabilidade pelo Produto:__ Os fornecedores são responsáveis pela qualidade e pela segurança dos produtos vendidos, podendo ser responsabilizados por danos causados ao consumidor.
+
+__Práticas Comerciais Abusivas:__ A legislação proíbe práticas enganosas ou abusivas, como publicidade falsa ou omissão de informações relevantes.
+
+__Atendimento ao Cliente:__ As empresas devem oferecer canais de atendimento eficazes, permitindo que os consumidores tirem dúvidas ou registrem reclamações de forma acessível.
