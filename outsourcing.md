@@ -1,4 +1,6 @@
 O outsourcing, ou terceirização, é um modelo de negócios onde uma empresa contrata outra para realizar determinadas atividades ou serviços que, tradicionalmente, seriam feitos internamente. 
+As principais vantagens do outsourcing incluem a redução de custos, que se dá pela economia em salários, benefícios e infraestrutura; o foco no core business, que permite às empresas dedicarem-se mais intensamente às suas atividades principais; e o acesso a expertise especializada, algo que muitas vezes não está disponível internamente. No entanto, essa prática não está isenta de desvantagens. A terceirização pode levar a uma diminuição do controle sobre os serviços prestados, à dependência em relação ao prestador e a potenciais questões de confidencialidade, especialmente no que tange à proteção de dados sensíveis.
+
 Aqui estão alguns pontos-chave sobre como funciona o outsourcing:
 
 ## 1. Definição
