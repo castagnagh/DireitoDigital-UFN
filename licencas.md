@@ -23,7 +23,7 @@ Uma licença de software é um documento legal que define os termos de uso, dist
 
 	•	Software de Código Aberto (Open Source): O código-fonte é disponibilizado ao público, permitindo que seja visualizado, modificado e distribuído. Ex.: Linux, Apache, Firefox.
 
-# 4. O que é GNU General Public License (GNU GPL)?
+# 3. O que é GNU General Public License (GNU GPL)?
 
 A GNU General Public License (GPL) é uma licença de software livre criada pela Free Software Foundation (FSF). Ela permite que o software seja:
 
@@ -47,7 +47,7 @@ Essa licença é amplamente usada em software de código aberto para garantir qu
 
 	•	Copyleft: É um princípio usado por algumas licenças (como a GPL) que exige que as versões modificadas do software também sejam distribuídas sob a mesma licença. Isso garante que o software e suas modificações permaneçam livres.
 
-# 6. Principais licenças quando um repositório é criado no GitHub
+# 5. Principais licenças quando um repositório é criado no GitHub
 
 Ao criar um repositório no GitHub, você pode selecionar uma licença para definir como outros podem usar seu código. As licenças mais comuns são:
 
