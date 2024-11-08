@@ -2,11 +2,12 @@
 # 1. O que é e para que serve uma licença de software?
 
 Uma licença de software é um documento legal que define os termos de uso, distribuição, modificação e acesso ao software. Ela serve para:
-	•	Proteger os direitos do autor: define o que outros podem ou não fazer com o software.
-	•	Especificar as condições de uso: incluindo se o software pode ser modificado, distribuído ou usado comercialmente.
-	•	Limitar responsabilidades: isenta os desenvolvedores de responsabilidade por eventuais danos causados pelo uso do software.
 
-Licenças de software podem ser classificadas em várias categorias, como software proprietário, de código aberto, e licenças livres.
+	•	Proteger os direitos do autor: define o que outros podem ou não fazer com o software.
+ 
+	•	Especificar as condições de uso: incluindo se o software pode ser modificado, distribuído ou usado comercialmente.
+ 
+	•	Limitar responsabilidades: isenta os desenvolvedores de responsabilidade por eventuais danos causados pelo uso do software.
 
 # 2. Tipos de software e suas definições:
 
@@ -25,6 +26,7 @@ Licenças de software podem ser classificadas em várias categorias, como softwa
 # 4. O que é GNU General Public License (GNU GPL)?
 
 A GNU General Public License (GPL) é uma licença de software livre criada pela Free Software Foundation (FSF). Ela permite que o software seja:
+
 	•	Usado livremente por qualquer pessoa.
  
 	•	Modificado e distribuído, desde que qualquer versão derivada seja também distribuída sob a mesma licença.
@@ -48,6 +50,7 @@ Essa licença é amplamente usada em software de código aberto para garantir qu
 # 6. Principais licenças quando um repositório é criado no GitHub
 
 Ao criar um repositório no GitHub, você pode selecionar uma licença para definir como outros podem usar seu código. As licenças mais comuns são:
+
 	•	MIT License: Permissiva e simples. Permite usar, modificar e distribuir o software, desde que a atribuição seja dada ao autor original.
  
 	•	Apache License 2.0: Similar à MIT, mas inclui uma cláusula de patente. Permite uso, modificação e distribuição, com proteção adicional contra litígios de patentes.
